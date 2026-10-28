@@ -1,8 +1,8 @@
-# <div align='center'>PouCode</div>
+# <div align='center'>R,K,A TECH</div>
 
 <p align="center">
 
-  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="Pou"/>
+  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="RkaTech"/>
 
 </p>
 
@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/pou-code/Baileys)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](package.json)
 
-A WebSockets library for interacting with WhatsApp Web, maintained under the **PouCode** brand.
+A WebSockets library for interacting with WhatsApp Web, maintained under the **R,K,A TECH** brand.
 This project is a fork built on top of [Baileys](https://github.com/WhiskeySockets/Baileys) by WhiskeySockets.
 
 </div>
