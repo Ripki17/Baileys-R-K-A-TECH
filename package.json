@@ -2,9 +2,10 @@
   "name": "@rkatech/baileys",
   "type": "module",
   "version": "1.0.0",
-  "description": "A WebSockets library for interacting with WhatsApp Web — RkaTech fork of Baileys",
+  "description": "A WebSockets library for interacting with WhatsApp Web — R,K,A TECH fork of Baileys",
   "keywords": [
     "rkatech",
+    "rka-tech",
     "baileys",
     "whatsapp",
     "whatsapp-api",
@@ -12,13 +13,13 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/rka-tech/Baileys",
+  "homepage": "https://github.com/Ripki17/Baileys-R-K-A-TECH",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rka-tech/Baileys.git"
+    "url": "git+https://github.com/Ripki17/Baileys-R-K-A-TECH.git"
   },
   "license": "MIT",
-  "author": "RkaTech",
+  "author": "R,K,A TECH",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -140,7 +141,7 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/rka-tech/Baileys/issues"
+    "url": "https://github.com/Ripki17/Baileys-R-K-A-TECH/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
