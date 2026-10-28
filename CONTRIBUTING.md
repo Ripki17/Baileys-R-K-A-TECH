@@ -1,6 +1,6 @@
-# Contributing to RkaTech
+# Contributing to R,K,A TECH
 
-Thanks for your interest in contributing! RkaTech is a fork of
+Thanks for your interest in contributing! R,K,A TECH is a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys); contributions here follow
 similar conventions to the upstream project.
 
@@ -22,8 +22,8 @@ similar conventions to the upstream project.
 ## Development setup
 
 ```bash
-git clone https://github.com/rka-tech/Baileys.git
-cd Baileys
+git clone https://github.com/Ripki17/Baileys-R-K-A-TECH.git
+cd Baileys-R-K-A-TECH
 npm install
 npm run build:tsc
 npm test
