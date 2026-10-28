@@ -1,18 +1,18 @@
-# <div align='center'>RkaTech</div>
+# <div align='center'>R,K,A TECH</div>
 
 <p align="center">
 
-  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="RkaTech"/>
+  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="R,K,A TECH"/>
 
 </p>
 
 <div align='center'>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/rka-tech/Baileys)
+[![GitHub](https://img.shields.io/badge/source-GitHub-black.svg)](https://github.com/Ripki17/Baileys-R-K-A-TECH)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](package.json)
 
-A WebSockets library for interacting with WhatsApp Web, maintained under the **RkaTech** brand.
+A WebSockets library for interacting with WhatsApp Web, maintained under the **R,K,A TECH** brand.
 This project is a fork built on top of [Baileys](https://github.com/WhiskeySockets/Baileys) by WhiskeySockets.
 
 </div>
@@ -22,13 +22,13 @@ This project is a fork built on top of [Baileys](https://github.com/WhiskeySocke
 ## Installation
 Install directly from GitHub (not published on npm registry):
 ```bash
-npm install github:rka-tech/Baileys
+npm install github:Ripki17/Baileys-R-K-A-TECH
 ```
 
 Or add it to your `package.json` manually:
 ```json
 "dependencies": {
-  "@rkatech/baileys": "github:rka-tech/Baileys"
+  "@rkatech/baileys": "github:Ripki17/Baileys-R-K-A-TECH"
 }
 ```
 
@@ -37,7 +37,7 @@ Already have a bot built on the original `@whiskeysockets/baileys` and don't wan
 name points to this fork:
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:rka-tech/Baileys"
+  "@whiskeysockets/baileys": "github:Ripki17/Baileys-R-K-A-TECH"
 }
 ```
 With this alias, keep using `require('@whiskeysockets/baileys')` in your code as-is — npm will
@@ -45,7 +45,7 @@ resolve it to this fork under the hood.
 
 You can also pin to a specific branch or commit:
 ```bash
-npm install github:rka-tech/Baileys#main
+npm install github:Ripki17/Baileys-R-K-A-TECH#main
 ```
 
 ## Import
@@ -134,21 +134,21 @@ logged into the same account). It does not affect delivery to the recipient.
 ```javascript
 // Sent to the recipient, but NOT synced to your other devices
 await client.relayMessage(m.chat, {
-  conversation: "Hello from RkaTech"
+  conversation: "Hello from R,K,A TECH"
 }, {
   noSelfSync: true
 });
 
 // Sent to the recipient AND synced to your other devices (default behavior)
 await client.relayMessage(m.chat, {
-  conversation: "Hello from RkaTech"
+  conversation: "Hello from R,K,A TECH"
 }, {
   noSelfSync: false
 });
 
 // Also works through sendMessage
 await client.sendMessage(m.chat, {
-  text: "Hello from RkaTech"
+  text: "Hello from R,K,A TECH"
 }, {
   noSelfSync: true
 });
@@ -391,7 +391,7 @@ await client.statusMention(m.chat, {
 
 # Credits
 
-RkaTech is a fork of [Baileys](https://github.com/WhiskeySockets/Baileys), originally created by
+R,K,A TECH is a fork of [Baileys](https://github.com/WhiskeySockets/Baileys), originally created by
 [Adhiraj Singh](https://github.com/adiwajshing) and maintained by the WhiskeySockets community.
 All credit for the underlying protocol implementation goes to the original authors and contributors.
 See [LICENSE](LICENSE) for the full license text and copyright notices.
