@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://files.catbox.moe/i497x5.jpg" width="180" alt="R,K,A TECH"/>
+  <img src="https://k.top4top.io/p_389326uuo1.jpg" width="180" alt="R,K,A TECH"/>
 
 </p>
 
